@@ -10,4 +10,7 @@
 2. Sleep more
 3. Attend DevBootcamp [www.devbootcamp.com]
 
+
 nathan's change 123
+
+>I am creating a merge conflict 123
