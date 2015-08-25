@@ -9,3 +9,6 @@
 1. Procrastinate less
 2. Sleep more
 3. Attend DevBootcamp [www.devbootcamp.com]
+
+
+>I am creating a merge conflict
