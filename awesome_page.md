@@ -1,7 +1,7 @@
 # This Is Our Awesome Page
 ## very very very awesome
 
->Here we will explain to you how to become awesome like us. 
+>Here we will explain to you how to become awesome like us.
 **listen closely**
 *we will only explain this once*
 
@@ -11,4 +11,4 @@
 3. Attend DevBootcamp [www.devbootcamp.com]
 
 
->I am creating a merge conflict
+>I am creating a merge conflict 123
